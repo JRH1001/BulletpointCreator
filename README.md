@@ -67,4 +67,4 @@ Then add your free [Gemini API key](https://aistudio.google.com/apikey) under **
 
 ## License
 
-Whatever you want
+Whatever you want :)
