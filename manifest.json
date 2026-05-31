@@ -1,0 +1,10 @@
+{
+  "id": "pdf-bullet-helper",
+  "name": "PDF Bullet Helper",
+  "version": "1.0.0",
+  "minAppVersion": "1.12.0",
+  "description": "Markiere Text in PDFs → Alt+Q → klausurrelevante Markdown-Stichpunkte via Gemini.",
+  "author": "PDF Bullet Helper",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
