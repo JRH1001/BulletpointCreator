@@ -40,7 +40,7 @@ Output is always clean bullet points — no headings, no sentences, no fluff:
 # 1. Copy the folder into your vault's plugin directory
 <your-vault>/.obsidian/plugins/pdf-bullet-helper/
 
-# 2. Install and build
+# 2. Install and build (no need to, only if you wanna build, it worked without building it, jsut download and extract from the release page)
 npm install
 npm run build
 
