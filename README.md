@@ -1,5 +1,5 @@
 # BulletpointCreator
-A simple Obsidian Addon that uses Gemini API to generate a list of Bullet points from a marked text from a PDF. Vibe Coded
+A simple Obsidian Addon that uses Gemini API to generate a list of Bullet points from a marked text from a PDF to help you paste Text easily from PDF into your Notes.  Vibe Coded
 
 **Select text → Alt+Q → Ctrl+V into your notes.**
 
@@ -67,4 +67,4 @@ Then add your free [Gemini API key](https://aistudio.google.com/apikey) under **
 
 ## License
 
-Whatever you want :)
+Do whatever you want, its free like Freedome :)
